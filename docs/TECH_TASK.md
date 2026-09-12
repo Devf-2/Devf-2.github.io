@@ -17,7 +17,7 @@
 
 **Ссылка на GitHub Pages:** https://devf-2.github.io/
 
-**Ссылка на основной pull request:** https://github.com/hse-drip-web-2026-2027/lesson_1-1_from-spec-to-ship_homework/compare/master...Devf-2:Devf-2.github.io:homework-1?expand=1
+**Ссылка на основной pull request:** https://github.com/Devf-2/Devf-2.github.io/pull/1
 
 ---
 
